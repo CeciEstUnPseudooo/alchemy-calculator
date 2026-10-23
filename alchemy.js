@@ -210,7 +210,7 @@ function optimize(inventory, potions, highs) {
   lines.push("End");
 
   const result = highs.solve(lines.join("\n"));
-  if (result.Status !== "Optimal") throw new Error(`Pas de solution optimale : ${result.Status}`);
+  if (result.Status !== "Optimal") throw new Error(`No optimal solution found: ${result.Status}`);
 
   const plan = potions
     .map((p, r) => [p, Math.round(result.Columns[`x${r}`].Primal)])

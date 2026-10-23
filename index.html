@@ -1,9 +1,9 @@
 <!doctype html>
-<html lang="fr">
+<html lang="en">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Calculateur d'alchimie</title>
+<title>Alchemy Calculator</title>
 <style>
   body { font-family: system-ui, sans-serif; margin: 0; background: #f4f1ea; color: #222; }
   header { background: #3b2f2f; color: #f4f1ea; padding: 12px 20px; }
@@ -36,33 +36,33 @@
 </style>
 </head>
 <body>
-<header><h1>Calculateur d'alchimie — Skyrim</h1></header>
+<header><h1>Skyrim Alchemy Calculator</h1></header>
 <main>
   <div>
     <section>
-      <h2>Alchimiste</h2>
-      <label>Niveau d'Alchimie <input type="number" id="skill" min="15" max="100" value="15"></label>
+      <h2>Alchemist</h2>
+      <label>Alchemy skill <input type="number" id="skill" min="15" max="100" value="15"></label>
       <label>Fortify Alchemy (%) <input type="number" id="fortify_alchemy" min="0" value="0"></label>
-      <label>Alchimiste (rang 0–5) <input type="number" id="alchemist_rank" min="0" max="5" value="0"></label>
-      <label><input type="checkbox" id="physician"> Médecin</label>
-      <label><input type="checkbox" id="benefactor"> Bienfaiteur</label>
-      <label><input type="checkbox" id="poisoner"> Empoisonneur</label>
+      <label>Alchemist perk (rank 0–5) <input type="number" id="alchemist_rank" min="0" max="5" value="0"></label>
+      <label><input type="checkbox" id="physician"> Physician</label>
+      <label><input type="checkbox" id="benefactor"> Benefactor</label>
+      <label><input type="checkbox" id="poisoner"> Poisoner</label>
     </section>
     <br>
     <section>
-      <h2>Inventaire</h2>
+      <h2>Inventory</h2>
       <div class="toolbar">
-        <input type="search" id="filter" placeholder="Rechercher un ingrédient…">
-        <button id="reset">Vider</button>
+        <input type="search" id="filter" placeholder="Search for an ingredient…">
+        <button id="reset">Clear</button>
       </div>
-      <label><input type="checkbox" id="owned-only"> Seulement ceux que je possède</label>
+      <label><input type="checkbox" id="owned-only"> Only show owned ingredients</label>
       <div id="ingredients"></div>
-      <button id="compute">Calculer les potions optimales</button>
+      <button id="compute">Find the best potions</button>
     </section>
   </div>
   <section>
-    <h2>Potions à fabriquer</h2>
-    <div id="result">Choisis tes ingrédients puis clique sur « Calculer ».</div>
+    <h2>Potions to brew</h2>
+    <div id="result">Pick your ingredients, then click “Find the best potions”.</div>
   </section>
 </main>
 
@@ -117,22 +117,22 @@ function readCharacter() {
 
 function renderResult(data) {
   const result = document.getElementById("result");
-  if (data.error) { result.innerHTML = `<p class="error">Erreur : ${data.error}</p>`; return; }
-  if (data.plan.length === 0) { result.textContent = "Aucune potion faisable avec ces ingrédients."; return; }
-  let html = `<p class="total">Total : ${data.total} or</p>
-    <table><tr><th>Nb</th><th>Potion</th><th>Valeur</th></tr>`;
+  if (data.error) { result.innerHTML = `<p class="error">Error: ${data.error}</p>`; return; }
+  if (data.plan.length === 0) { result.textContent = "No potion can be made with these ingredients."; return; }
+  let html = `<p class="total">Total: ${data.total} gold</p>
+    <table><tr><th>Qty</th><th>Potion</th><th>Value</th></tr>`;
   for (const p of data.plan) {
-    const effects = p.details.map(d => `${d.effect} (${d.gold} or)`).join(", ");
+    const effects = p.details.map(d => `${d.effect} (${d.gold} gold)`).join(", ");
     html += `<tr>
       <td class="num">${p.count} ×</td>
-      <td><span class="${p.type === "Poison" ? "poison" : ""}">${p.type}</span> :
+      <td><span class="${p.type === "Poison" ? "poison" : ""}">${p.type}</span>:
           ${p.ingredients.join(" + ")}<div class="effects">${effects}</div></td>
-      <td class="num">${p.value} or</td></tr>`;
+      <td class="num">${p.value} gold</td></tr>`;
   }
   html += "</table>";
   const remaining = Object.entries(data.remaining);
   if (remaining.length) {
-    html += "<h3>Ingrédients restants</h3><p>" +
+    html += "<h3>Leftover ingredients</h3><p>" +
       remaining.map(([n, q]) => `${q} × ${n}`).join(", ") + "</p>";
   }
   result.innerHTML = html;
@@ -141,7 +141,7 @@ function renderResult(data) {
 document.getElementById("compute").onclick = async () => {
   const button = document.getElementById("compute");
   button.disabled = true;
-  document.getElementById("result").textContent = "Calcul en cours…";
+  document.getElementById("result").textContent = "Calculating…";
   // Laisse le navigateur afficher « Calcul en cours… » avant de lancer le calcul.
   await new Promise(resolve => setTimeout(resolve, 0));
   try {
