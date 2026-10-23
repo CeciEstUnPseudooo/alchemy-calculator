@@ -1,0 +1,5132 @@
+[
+  {
+    "name": "Abecean Longfin",
+    "effects": [
+      {
+        "effect": "Fortify Restoration",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Sneak",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Weakness to Frost",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Weakness to Poison",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Alocasia Fruit",
+    "effects": [
+      {
+        "effect": "Light",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Ravage Magicka",
+        "mag": 1.5,
+        "dur": 1.0,
+        "val": 1.56
+      },
+      {
+        "effect": "Regenerate Health",
+        "mag": 1.2,
+        "dur": 1.0,
+        "val": 1.22
+      },
+      {
+        "effect": "Regenerate Stamina",
+        "mag": 1.2,
+        "dur": 1.0,
+        "val": 1.22
+      }
+    ],
+    "source": "Creation Club"
+  },
+  {
+    "name": "Ambrosia",
+    "effects": [
+      {
+        "effect": "Cure Poison",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.56
+      },
+      {
+        "effect": "Fortify Health",
+        "mag": 1.25,
+        "dur": 1.0,
+        "val": 1.27
+      },
+      {
+        "effect": "Regenerate Health",
+        "mag": 1.2,
+        "dur": 1.0,
+        "val": 1.22
+      },
+      {
+        "effect": "Restore Health",
+        "mag": 1.2,
+        "dur": 1.0,
+        "val": 1.22
+      }
+    ],
+    "source": "Creation Club"
+  },
+  {
+    "name": "Ancestor Moth Wing",
+    "effects": [
+      {
+        "effect": "Damage Magicka Regen",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Damage Stamina",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Conjuration",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Enchanting",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Dawnguard"
+  },
+  {
+    "name": "Ash Creep Cluster",
+    "effects": [
+      {
+        "effect": "Damage Stamina",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Destruction",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Invisibility",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Resist Fire",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Dragonborn"
+  },
+  {
+    "name": "Ash Hopper Jelly",
+    "effects": [
+      {
+        "effect": "Fortify Light Armor",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Resist Shock",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Restore Health",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Weakness to Frost",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Dragonborn"
+  },
+  {
+    "name": "Ashen Grass Pod",
+    "effects": [
+      {
+        "effect": "Fortify Lockpicking",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Sneak",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Resist Fire",
+        "mag": 1.33,
+        "dur": 1.0,
+        "val": 1.36
+      },
+      {
+        "effect": "Weakness to Shock",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Dragonborn"
+  },
+  {
+    "name": "Aster Bloom Core",
+    "effects": [
+      {
+        "effect": "Fortify Block",
+        "mag": 1.25,
+        "dur": 1.0,
+        "val": 1.27
+      },
+      {
+        "effect": "Fortify Light Armor",
+        "mag": 2.0,
+        "dur": 1.0,
+        "val": 2.14
+      },
+      {
+        "effect": "Paralysis",
+        "mag": 1.0,
+        "dur": 1.5,
+        "val": 1.56
+      },
+      {
+        "effect": "Resist Magic",
+        "mag": 1.2,
+        "dur": 1.0,
+        "val": 1.22
+      }
+    ],
+    "source": "Creation Club"
+  },
+  {
+    "name": "Bear Claws",
+    "effects": [
+      {
+        "effect": "Damage Magicka Regen",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Health",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify One-handed",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Restore Stamina",
+        "mag": 0.8,
+        "dur": 1.0,
+        "val": 0.78
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Bee",
+    "effects": [
+      {
+        "effect": "Ravage Stamina",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Regenerate Stamina",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Restore Stamina",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Weakness to Shock",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Beehive Husk",
+    "effects": [
+      {
+        "effect": "Fortify Destruction",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Light Armor",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Sneak",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Resist Poison",
+        "mag": 0.5,
+        "dur": 1.0,
+        "val": 0.46
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Berit's Ashes",
+    "effects": [
+      {
+        "effect": "Damage Stamina",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Conjuration",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Ravage Stamina",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Resist Fire",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Bittergreen Petals",
+    "effects": [
+      {
+        "effect": "Cure Poison",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Damage Magicka",
+        "mag": 1.5,
+        "dur": 1.0,
+        "val": 1.56
+      },
+      {
+        "effect": "Invisibility",
+        "mag": 1.0,
+        "dur": 1.5,
+        "val": 1.56
+      },
+      {
+        "effect": "Lingering Damage Stamina",
+        "mag": 2.0,
+        "dur": 1.0,
+        "val": 2.14
+      }
+    ],
+    "source": "Creation Club"
+  },
+  {
+    "name": "Bleeding Crown",
+    "effects": [
+      {
+        "effect": "Fortify Block",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Resist Magic",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Weakness to Fire",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Weakness to Poison",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Blind Watcher's Eye",
+    "effects": [
+      {
+        "effect": "Fortify Alteration",
+        "mag": 1.25,
+        "dur": 1.0,
+        "val": 1.27
+      },
+      {
+        "effect": "Fortify Magicka",
+        "mag": 1.25,
+        "dur": 1.0,
+        "val": 1.27
+      },
+      {
+        "effect": "Light",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Spell Absorption",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Creation Club"
+  },
+  {
+    "name": "Bliss Bug Thorax",
+    "effects": [
+      {
+        "effect": "Fortify Heavy Armor",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Illusion",
+        "mag": 0.25,
+        "dur": 1.0,
+        "val": 0.21
+      },
+      {
+        "effect": "Resist Fire",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Weakness to Fire",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Creation Club"
+  },
+  {
+    "name": "Blister Pod Cap",
+    "effects": [
+      {
+        "effect": "Fortify Magicka",
+        "mag": 1.25,
+        "dur": 1.0,
+        "val": 1.27
+      },
+      {
+        "effect": "Invisibility",
+        "mag": 1.0,
+        "dur": 1.5,
+        "val": 1.56
+      },
+      {
+        "effect": "Night Eye",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Restore Magicka",
+        "mag": 1.2,
+        "dur": 1.0,
+        "val": 1.22
+      }
+    ],
+    "source": "Creation Club"
+  },
+  {
+    "name": "Blisterwort",
+    "effects": [
+      {
+        "effect": "Damage Stamina",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Smithing",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Frenzy",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Restore Health",
+        "mag": 0.6,
+        "dur": 1.0,
+        "val": 0.57
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Blue Butterfly Wing",
+    "effects": [
+      {
+        "effect": "Damage Magicka Regen",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Damage Stamina",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Conjuration",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Enchanting",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Blue Dartwing",
+    "effects": [
+      {
+        "effect": "Fear",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Pickpocket",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Resist Shock",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Restore Health",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Blue Mountain Flower",
+    "effects": [
+      {
+        "effect": "Damage Magicka Regen",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Conjuration",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Health",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Restore Health",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Boar Tusk",
+    "effects": [
+      {
+        "effect": "Fortify Block",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Health",
+        "mag": 1.0,
+        "dur": 5.0,
+        "val": 5.9
+      },
+      {
+        "effect": "Fortify Stamina",
+        "mag": 1.25,
+        "dur": 5.0,
+        "val": 7.5
+      },
+      {
+        "effect": "Frenzy",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Dragonborn"
+  },
+  {
+    "name": "Bog Beacon",
+    "effects": [
+      {
+        "effect": "Damage Stamina",
+        "mag": 1.33,
+        "dur": 1.0,
+        "val": 1.36
+      },
+      {
+        "effect": "Fear",
+        "mag": 2.0,
+        "dur": 1.0,
+        "val": 2.14
+      },
+      {
+        "effect": "Fortify Heavy Armor",
+        "mag": 1.5,
+        "dur": 1.0,
+        "val": 1.56
+      },
+      {
+        "effect": "Restore Magicka",
+        "mag": 1.2,
+        "dur": 1.0,
+        "val": 1.22
+      }
+    ],
+    "source": "Creation Club"
+  },
+  {
+    "name": "Bone Meal",
+    "effects": [
+      {
+        "effect": "Damage Stamina",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Conjuration",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Ravage Stamina",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Resist Fire",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Briar Heart",
+    "effects": [
+      {
+        "effect": "Fortify Block",
+        "mag": 0.5,
+        "dur": 1.0,
+        "val": null
+      },
+      {
+        "effect": "Fortify Magicka",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Paralysis",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Restore Magicka",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Bungler's Bane",
+    "effects": [
+      {
+        "effect": "Damage Stamina Regen",
+        "mag": 1.0,
+        "dur": 2.0,
+        "val": 2.14
+      },
+      {
+        "effect": "Ravage Stamina",
+        "mag": 1.5,
+        "dur": 1.0,
+        "val": 3.34
+      },
+      {
+        "effect": "Resist Magic",
+        "mag": 1.2,
+        "dur": 1.0,
+        "val": 1.22
+      },
+      {
+        "effect": "Slow",
+        "mag": 1.0,
+        "dur": 2.0,
+        "val": 2.14
+      }
+    ],
+    "source": "Creation Club"
+  },
+  {
+    "name": "Burnt Spriggan Wood",
+    "effects": [
+      {
+        "effect": "Damage Magicka Regen",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Alteration",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Slow",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Weakness to Fire",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Dragonborn"
+  },
+  {
+    "name": "Butterfly Wing",
+    "effects": [
+      {
+        "effect": "Damage Magicka",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Barter",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Lingering Damage Stamina",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Restore Health",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Canis Root",
+    "effects": [
+      {
+        "effect": "Damage Stamina",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Marksman",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify One-handed",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Paralysis",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Charred Skeever Hide",
+    "effects": [
+      {
+        "effect": "Cure Disease",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 0.36
+      },
+      {
+        "effect": "Resist Poison",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Restore Health",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Restore Stamina",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Chaurus Eggs",
+    "effects": [
+      {
+        "effect": "Damage Magicka",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Stamina",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Invisibility",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Weakness to Poison",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Chaurus Hunter Antennae",
+    "effects": [
+      {
+        "effect": "Damage Magicka Regen",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Damage Stamina",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Conjuration",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Enchanting",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Dawnguard"
+  },
+  {
+    "name": "Chicken's Egg",
+    "effects": [
+      {
+        "effect": "Damage Magicka Regen",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Lingering Damage Stamina",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Resist Magic",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Waterbreathing",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Chokeberry",
+    "effects": [
+      {
+        "effect": "Damage Health",
+        "mag": 1.5,
+        "dur": 1.0,
+        "val": 1.56
+      },
+      {
+        "effect": "Lingering Damage Health",
+        "mag": 2.0,
+        "dur": 1.0,
+        "val": 2.14
+      },
+      {
+        "effect": "Ravage Health",
+        "mag": 1.5,
+        "dur": 1.0,
+        "val": 3.34
+      },
+      {
+        "effect": "Weakness to Poison",
+        "mag": 1.5,
+        "dur": 1.0,
+        "val": 1.56
+      }
+    ],
+    "source": "Creation Club"
+  },
+  {
+    "name": "Chokeweed",
+    "effects": [
+      {
+        "effect": "Cure Disease",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 0.36
+      },
+      {
+        "effect": "Damage Magicka",
+        "mag": 1.5,
+        "dur": 1.0,
+        "val": 1.56
+      },
+      {
+        "effect": "Restore Stamina",
+        "mag": 1.2,
+        "dur": 1.0,
+        "val": 1.22
+      },
+      {
+        "effect": "Weakness to Frost",
+        "mag": 1.33,
+        "dur": 1.0,
+        "val": 1.36
+      }
+    ],
+    "source": "Creation Club"
+  },
+  {
+    "name": "Coda Flower",
+    "effects": [
+      {
+        "effect": "Damage Health",
+        "mag": 1.5,
+        "dur": 1.0,
+        "val": 1.56
+      },
+      {
+        "effect": "Fortify Carry Weight",
+        "mag": 1.25,
+        "dur": 1.0,
+        "val": 1.27
+      },
+      {
+        "effect": "Lingering Damage Stamina",
+        "mag": 2.0,
+        "dur": 1.0,
+        "val": 2.14
+      },
+      {
+        "effect": "Ravage Magicka",
+        "mag": 1.5,
+        "dur": 1.0,
+        "val": 1.56
+      }
+    ],
+    "source": "Creation Club"
+  },
+  {
+    "name": "Comberry",
+    "effects": [
+      {
+        "effect": "Damage Stamina",
+        "mag": 1.33,
+        "dur": 1.0,
+        "val": 1.36
+      },
+      {
+        "effect": "Fortify Destruction",
+        "mag": 1.2,
+        "dur": 1.0,
+        "val": 1.22
+      },
+      {
+        "effect": "Restore Magicka",
+        "mag": 1.2,
+        "dur": 1.0,
+        "val": 1.22
+      },
+      {
+        "effect": "Spell Absorption",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Creation Club"
+  },
+  {
+    "name": "Congealed Putrescence",
+    "effects": [
+      {
+        "effect": "Fortify Conjuration",
+        "mag": 1.2,
+        "dur": 1.0,
+        "val": 1.22
+      },
+      {
+        "effect": "Ravage Health",
+        "mag": 1.5,
+        "dur": 1.0,
+        "val": 3.34
+      },
+      {
+        "effect": "Restore Magicka",
+        "mag": 1.2,
+        "dur": 1.0,
+        "val": 1.22
+      },
+      {
+        "effect": "Weakness to Fire",
+        "mag": 1.33,
+        "dur": 1.0,
+        "val": 1.36
+      }
+    ],
+    "source": "Creation Club"
+  },
+  {
+    "name": "Corkbulb Root",
+    "effects": [
+      {
+        "effect": "Fortify Marksman",
+        "mag": 1.25,
+        "dur": 1.0,
+        "val": 1.27
+      },
+      {
+        "effect": "Paralysis",
+        "mag": 1.0,
+        "dur": 1.5,
+        "val": 1.56
+      },
+      {
+        "effect": "Resist Shock",
+        "mag": 1.33,
+        "dur": 1.0,
+        "val": 1.36
+      },
+      {
+        "effect": "Restore Health",
+        "mag": 1.2,
+        "dur": 1.0,
+        "val": 1.22
+      }
+    ],
+    "source": "Creation Club"
+  },
+  {
+    "name": "Creep Cluster",
+    "effects": [
+      {
+        "effect": "Damage Stamina Regen",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Carry Weight",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Restore Magicka",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Weakness to Magic",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Crimson Nirnroot",
+    "effects": [
+      {
+        "effect": "Damage Health",
+        "mag": 3.0,
+        "dur": 1.0,
+        "val": 3.3
+      },
+      {
+        "effect": "Damage Stamina",
+        "mag": 3.0,
+        "dur": 1.0,
+        "val": null
+      },
+      {
+        "effect": "Invisibility",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Resist Magic",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Cyrodilic Spadetail",
+    "effects": [
+      {
+        "effect": "Damage Stamina",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fear",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Restoration",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Ravage Health",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Daedra Heart",
+    "effects": [
+      {
+        "effect": "Damage Magicka",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Damage Stamina Regen",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fear",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Restore Health",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Daedra Silk",
+    "effects": [
+      {
+        "effect": "Invisibility",
+        "mag": 1.0,
+        "dur": 1.5,
+        "val": 1.56
+      },
+      {
+        "effect": "Lingering Damage Stamina",
+        "mag": 2.0,
+        "dur": 1.0,
+        "val": 2.14
+      },
+      {
+        "effect": "Night Eye",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Paralysis",
+        "mag": 1.0,
+        "dur": 1.5,
+        "val": 1.56
+      }
+    ],
+    "source": "Creation Club"
+  },
+  {
+    "name": "Daedra Venin",
+    "effects": [
+      {
+        "effect": "Fortify Destruction",
+        "mag": 1.2,
+        "dur": 1.0,
+        "val": 1.22
+      },
+      {
+        "effect": "Paralysis",
+        "mag": 1.0,
+        "dur": 1.5,
+        "val": 1.56
+      },
+      {
+        "effect": "Ravage Health",
+        "mag": 1.5,
+        "dur": 1.0,
+        "val": 3.34
+      },
+      {
+        "effect": "Spell Absorption",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Creation Club"
+  },
+  {
+    "name": "Daedroth Teeth",
+    "effects": [
+      {
+        "effect": "Damage Magicka Regen",
+        "mag": 1.0,
+        "dur": 2.0,
+        "val": 2.14
+      },
+      {
+        "effect": "Light",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Regenerate Stamina",
+        "mag": 1.2,
+        "dur": 1.0,
+        "val": 1.22
+      },
+      {
+        "effect": "Resist Frost",
+        "mag": 1.33,
+        "dur": 1.0,
+        "val": 1.36
+      }
+    ],
+    "source": "Creation Club"
+  },
+  {
+    "name": "Deathbell",
+    "effects": [
+      {
+        "effect": "Damage Health",
+        "mag": 1.5,
+        "dur": 1.0,
+        "val": 1.6
+      },
+      {
+        "effect": "Ravage Stamina",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 2.1
+      },
+      {
+        "effect": "Slow",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Weakness to Poison",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Dragon's Tongue",
+    "effects": [
+      {
+        "effect": "Fortify Barter",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Illusion",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Two-handed",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Resist Fire",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Dreugh Wax",
+    "effects": [
+      {
+        "effect": "Fortify Enchanting",
+        "mag": 2.0,
+        "dur": 1.0,
+        "val": 2.14
+      },
+      {
+        "effect": "Fortify Smithing",
+        "mag": 1.25,
+        "dur": 1.0,
+        "val": 1.27
+      },
+      {
+        "effect": "Frenzy",
+        "mag": 1.0,
+        "dur": 2.0,
+        "val": 2.14
+      },
+      {
+        "effect": "Weakness to Magic",
+        "mag": 1.5,
+        "dur": 1.0,
+        "val": 1.56
+      }
+    ],
+    "source": "Creation Club"
+  },
+  {
+    "name": "Dwarven Oil",
+    "effects": [
+      {
+        "effect": "Fortify Illusion",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Regenerate Magicka",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Restore Magicka",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Weakness to Magic",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Ectoplasm",
+    "effects": [
+      {
+        "effect": "Damage Health",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Destruction",
+        "mag": 0.8,
+        "dur": 1.0,
+        "val": null
+      },
+      {
+        "effect": "Fortify Magicka",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Restore Magicka",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Elves Ear",
+    "effects": [
+      {
+        "effect": "Fortify Marksman",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Resist Fire",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Restore Magicka",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Weakness to Frost",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Elytra Ichor",
+    "effects": [
+      {
+        "effect": "Fear",
+        "mag": 2.0,
+        "dur": 1.0,
+        "val": 2.14
+      },
+      {
+        "effect": "Invisibility",
+        "mag": 1.0,
+        "dur": 1.5,
+        "val": 1.56
+      },
+      {
+        "effect": "Restore Magicka",
+        "mag": 1.2,
+        "dur": 1.0,
+        "val": 1.22
+      },
+      {
+        "effect": "Slow",
+        "mag": 1.0,
+        "dur": 2.0,
+        "val": 2.14
+      }
+    ],
+    "source": "Creation Club"
+  },
+  {
+    "name": "Emperor Parasol Moss",
+    "effects": [
+      {
+        "effect": "Damage Health",
+        "mag": 1.5,
+        "dur": 1.0,
+        "val": 19.7
+      },
+      {
+        "effect": "Fortify Magicka",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Two-handed",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Regenerate Health",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Dragonborn"
+  },
+  {
+    "name": "Eye of Sabre Cat",
+    "effects": [
+      {
+        "effect": "Damage Magicka",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Ravage Health",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Restore Health",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Restore Stamina",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Falmer Ear",
+    "effects": [
+      {
+        "effect": "Damage Health",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Lockpicking",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Frenzy",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Resist Poison",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Felsaad Tern Feathers",
+    "effects": [
+      {
+        "effect": "Cure Disease",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Light Armor",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Resist Magic",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Restore Health",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Dragonborn"
+  },
+  {
+    "name": "Fire Petal",
+    "effects": [
+      {
+        "effect": "Damage Health",
+        "mag": 1.5,
+        "dur": 1.0,
+        "val": 1.56
+      },
+      {
+        "effect": "Paralysis",
+        "mag": 1.0,
+        "dur": 1.5,
+        "val": 1.56
+      },
+      {
+        "effect": "Resist Fire",
+        "mag": 1.33,
+        "dur": 1.0,
+        "val": 1.36
+      },
+      {
+        "effect": "Spell Absorption",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Creation Club"
+  },
+  {
+    "name": "Fire Salts",
+    "effects": [
+      {
+        "effect": "Regenerate Magicka",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Resist Fire",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Restore Magicka",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Weakness to Frost",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Flame Stalk",
+    "effects": [
+      {
+        "effect": "Invisibility",
+        "mag": 1.0,
+        "dur": 1.5,
+        "val": 1.56
+      },
+      {
+        "effect": "Resist Frost",
+        "mag": 1.33,
+        "dur": 1.0,
+        "val": 1.36
+      },
+      {
+        "effect": "Restore Health",
+        "mag": 1.2,
+        "dur": 1.0,
+        "val": 1.22
+      },
+      {
+        "effect": "Weakness to Fire",
+        "mag": 1.33,
+        "dur": 1.0,
+        "val": 1.36
+      }
+    ],
+    "source": "Creation Club"
+  },
+  {
+    "name": "Fly Amanita",
+    "effects": [
+      {
+        "effect": "Fortify Two-handed",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Frenzy",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Regenerate Stamina",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Resist Fire",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Frost Mirriam",
+    "effects": [
+      {
+        "effect": "Damage Stamina Regen",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Sneak",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Ravage Magicka",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Resist Frost",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Frost Salts",
+    "effects": [
+      {
+        "effect": "Fortify Conjuration",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Resist Frost",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Restore Magicka",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Weakness to Fire",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Fungus Stalk",
+    "effects": [
+      {
+        "effect": "Fortify Health",
+        "mag": 1.25,
+        "dur": 5.0,
+        "val": 7.5
+      },
+      {
+        "effect": "Fortify Stamina",
+        "mag": 1.25,
+        "dur": 5.0,
+        "val": 7.5
+      },
+      {
+        "effect": "Restore Magicka",
+        "mag": 1.2,
+        "dur": 1.0,
+        "val": 1.22
+      },
+      {
+        "effect": "Waterbreathing",
+        "mag": 1.0,
+        "dur": 1.6,
+        "val": 1.67
+      }
+    ],
+    "source": "Creation Club"
+  },
+  {
+    "name": "Garlic",
+    "effects": [
+      {
+        "effect": "Fortify Stamina",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Regenerate Health",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Regenerate Magicka",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Resist Poison",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Giant Lichen",
+    "effects": [
+      {
+        "effect": "Ravage Health",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Restore Magicka",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Weakness to Poison",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Weakness to Shock",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Giant's Toe",
+    "effects": [
+      {
+        "effect": "Damage Stamina",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Damage Stamina Regen",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Carry Weight",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Health",
+        "mag": 1.0,
+        "dur": 5.0,
+        "val": 5.9
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Gleamblossom",
+    "effects": [
+      {
+        "effect": "Fear",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Paralysis",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Regenerate Health",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Resist Magic",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Dawnguard"
+  },
+  {
+    "name": "Glow Dust",
+    "effects": [
+      {
+        "effect": "Damage Magicka",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Damage Magicka Regen",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Destruction",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Resist Shock",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Glowing Mushroom",
+    "effects": [
+      {
+        "effect": "Fortify Destruction",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Health",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Smithing",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Resist Shock",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Gnarl Bark",
+    "effects": [
+      {
+        "effect": "Damage Health",
+        "mag": 1.5,
+        "dur": 1.0,
+        "val": 1.56
+      },
+      {
+        "effect": "Fortify Heavy Armor",
+        "mag": 1.5,
+        "dur": 1.0,
+        "val": 1.56
+      },
+      {
+        "effect": "Regenerate Health",
+        "mag": 1.2,
+        "dur": 1.0,
+        "val": 1.22
+      },
+      {
+        "effect": "Resist Fire",
+        "mag": 1.33,
+        "dur": 1.0,
+        "val": 1.36
+      }
+    ],
+    "source": "Creation Club"
+  },
+  {
+    "name": "Gold Kanet",
+    "effects": [
+      {
+        "effect": "Fortify Smithing",
+        "mag": 1.25,
+        "dur": 1.0,
+        "val": 1.27
+      },
+      {
+        "effect": "Paralysis",
+        "mag": 1.0,
+        "dur": 1.5,
+        "val": 1.56
+      },
+      {
+        "effect": "Ravage Health",
+        "mag": 1.5,
+        "dur": 1.0,
+        "val": 3.34
+      },
+      {
+        "effect": "Weakness to Frost",
+        "mag": 1.33,
+        "dur": 1.0,
+        "val": 1.36
+      }
+    ],
+    "source": "Creation Club"
+  },
+  {
+    "name": "Grass Pod",
+    "effects": [
+      {
+        "effect": "Fortify Alteration",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Ravage Magicka",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Resist Poison",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Restore Magicka",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Green Butterfly Wing",
+    "effects": [
+      {
+        "effect": "Fear",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Invisibility",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Restore Magicka",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Slow",
+        "mag": 1.0,
+        "dur": 6.0,
+        "val": 0.57
+      }
+    ],
+    "source": "Creation Club"
+  },
+  {
+    "name": "Hackle-Lo Leaf",
+    "effects": [
+      {
+        "effect": "Fortify Restoration",
+        "mag": 1.25,
+        "dur": 1.0,
+        "val": 1.27
+      },
+      {
+        "effect": "Paralysis",
+        "mag": 1.0,
+        "dur": 1.5,
+        "val": 1.56
+      },
+      {
+        "effect": "Restore Stamina",
+        "mag": 1.2,
+        "dur": 1.0,
+        "val": 1.22
+      },
+      {
+        "effect": "Waterbreathing",
+        "mag": 1.0,
+        "dur": 1.6,
+        "val": 1.67
+      }
+    ],
+    "source": "Creation Club"
+  },
+  {
+    "name": "Hagraven Claw",
+    "effects": [
+      {
+        "effect": "Fortify Barter",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Enchanting",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Lingering Damage Magicka",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Resist Magic",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Hagraven Feathers",
+    "effects": [
+      {
+        "effect": "Damage Magicka",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Conjuration",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Frenzy",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Weakness to Shock",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Hanging Moss",
+    "effects": [
+      {
+        "effect": "Damage Magicka",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Damage Magicka Regen",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Health",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify One-handed",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Hawk Beak",
+    "effects": [
+      {
+        "effect": "Fortify Carry Weight",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Resist Frost",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Resist Shock",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Restore Stamina",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Hawk Feathers",
+    "effects": [
+      {
+        "effect": "Cure Disease",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 0.36
+      },
+      {
+        "effect": "Fortify Light Armor",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify One-handed",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Sneak",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Hawk's Egg",
+    "effects": [
+      {
+        "effect": "Damage Magicka Regen",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Lingering Damage Stamina",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Resist Magic",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Waterbreathing",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Hearthfire"
+  },
+  {
+    "name": "Heart of Order",
+    "effects": [
+      {
+        "effect": "Fortify Health",
+        "mag": 1.25,
+        "dur": 5.0,
+        "val": 7.5
+      },
+      {
+        "effect": "Fortify One-handed",
+        "mag": 1.25,
+        "dur": 1.0,
+        "val": 1.27
+      },
+      {
+        "effect": "Fortify Two-handed",
+        "mag": 1.25,
+        "dur": 1.0,
+        "val": 1.27
+      },
+      {
+        "effect": "Restore Health",
+        "mag": 1.2,
+        "dur": 1.0,
+        "val": 1.22
+      }
+    ],
+    "source": "Creation Club"
+  },
+  {
+    "name": "Histcarp",
+    "effects": [
+      {
+        "effect": "Damage Stamina Regen",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Magicka",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Restore Stamina",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Waterbreathing",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Honeycomb",
+    "effects": [
+      {
+        "effect": "Fortify Block",
+        "mag": 0.5,
+        "dur": 1.0,
+        "val": null
+      },
+      {
+        "effect": "Fortify Light Armor",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Ravage Stamina",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Restore Stamina",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Human Flesh",
+    "effects": [
+      {
+        "effect": "Damage Health",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Sneak",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Paralysis",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Restore Magicka",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Human Heart",
+    "effects": [
+      {
+        "effect": "Damage Health",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Damage Magicka",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Damage Magicka Regen",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Frenzy",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Hunger Tongue",
+    "effects": [
+      {
+        "effect": "Cure Disease",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 0.36
+      },
+      {
+        "effect": "Cure Poison",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Magicka",
+        "mag": 1.25,
+        "dur": 1.0,
+        "val": 1.27
+      },
+      {
+        "effect": "Weakness to Fire",
+        "mag": 1.33,
+        "dur": 2.0,
+        "val": 2.93
+      }
+    ],
+    "source": "Creation Club"
+  },
+  {
+    "name": "Hydnum Azure Giant Spore",
+    "effects": [
+      {
+        "effect": "Fortify Health",
+        "mag": 1.25,
+        "dur": 5.0,
+        "val": 7.5
+      },
+      {
+        "effect": "Light",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Regenerate Health",
+        "mag": 1.2,
+        "dur": 1.0,
+        "val": 1.22
+      },
+      {
+        "effect": "Resist Frost",
+        "mag": 1.33,
+        "dur": 1.0,
+        "val": 1.36
+      }
+    ],
+    "source": "Creation Club"
+  },
+  {
+    "name": "Hypha Facia",
+    "effects": [
+      {
+        "effect": "Frenzy",
+        "mag": 1.0,
+        "dur": 2.0,
+        "val": 2.14
+      },
+      {
+        "effect": "Ravage Stamina",
+        "mag": 1.5,
+        "dur": 1.0,
+        "val": 3.34
+      },
+      {
+        "effect": "Resist Magic",
+        "mag": 1.2,
+        "dur": 1.0,
+        "val": 1.22
+      },
+      {
+        "effect": "Weakness to Poison",
+        "mag": 1.5,
+        "dur": 1.0,
+        "val": 1.56
+      }
+    ],
+    "source": "Creation Club"
+  },
+  {
+    "name": "Ice Wraith Teeth",
+    "effects": [
+      {
+        "effect": "Fortify Heavy Armor",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Invisibility",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Weakness to Fire",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Weakness to Frost",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Imp Gall",
+    "effects": [
+      {
+        "effect": "Cure Poison",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Damage Health",
+        "mag": 1.5,
+        "dur": 1.0,
+        "val": 1.56
+      },
+      {
+        "effect": "Fortify Barter",
+        "mag": 2.0,
+        "dur": 1.0,
+        "val": 2.14
+      },
+      {
+        "effect": "Weakness to Fire",
+        "mag": 1.33,
+        "dur": 1.0,
+        "val": 1.36
+      }
+    ],
+    "source": "Creation Club"
+  },
+  {
+    "name": "Imp Stool",
+    "effects": [
+      {
+        "effect": "Damage Health",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Lingering Damage Health",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Paralysis",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Restore Health",
+        "mag": 0.6,
+        "dur": 1.0,
+        "val": 0.57
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Jarrin Root",
+    "effects": [
+      {
+        "effect": "Damage Health",
+        "mag": 100.0,
+        "dur": 1.0,
+        "val": 158.5
+      },
+      {
+        "effect": "Damage Magicka",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Damage Magicka Regen",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Damage Stamina",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Jazbay Grapes",
+    "effects": [
+      {
+        "effect": "Fortify Magicka",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Ravage Health",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Regenerate Magicka",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Weakness to Magic",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Juniper Berries",
+    "effects": [
+      {
+        "effect": "Damage Stamina Regen",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Marksman",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Regenerate Health",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Weakness to Fire",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Kagouti Hide",
+    "effects": [
+      {
+        "effect": "Fortify Carry Weight",
+        "mag": 1.25,
+        "dur": 1.0,
+        "val": 1.27
+      },
+      {
+        "effect": "Lingering Damage Stamina",
+        "mag": 2.0,
+        "dur": 1.0,
+        "val": 2.14
+      },
+      {
+        "effect": "Night Eye",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Resist Shock",
+        "mag": 1.33,
+        "dur": 1.0,
+        "val": 1.36
+      }
+    ],
+    "source": "Creation Club"
+  },
+  {
+    "name": "Kresh Fiber",
+    "effects": [
+      {
+        "effect": "Fortify Pickpocket",
+        "mag": 1.25,
+        "dur": 1.0,
+        "val": 1.27
+      },
+      {
+        "effect": "Fortify Sneak",
+        "mag": 1.25,
+        "dur": 1.0,
+        "val": 1.27
+      },
+      {
+        "effect": "Slow",
+        "mag": 1.0,
+        "dur": 2.0,
+        "val": 2.14
+      },
+      {
+        "effect": "Weakness to Magic",
+        "mag": 1.5,
+        "dur": 1.0,
+        "val": 1.56
+      }
+    ],
+    "source": "Creation Club"
+  },
+  {
+    "name": "Large Antlers",
+    "effects": [
+      {
+        "effect": "Damage Stamina Regen",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Stamina",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Restore Stamina",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Slow",
+        "mag": 1.0,
+        "dur": 6.0,
+        "val": 1.75
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Lavender",
+    "effects": [
+      {
+        "effect": "Fortify Conjuration",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Stamina",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Ravage Magicka",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Resist Magic",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Lichor",
+    "effects": [
+      {
+        "effect": "Fortify Magicka",
+        "mag": 1.25,
+        "dur": 1.0,
+        "val": 1.27
+      },
+      {
+        "effect": "Regenerate Magicka",
+        "mag": 1.2,
+        "dur": 1.0,
+        "val": 1.22
+      },
+      {
+        "effect": "Restore Magicka",
+        "mag": 1.2,
+        "dur": 1.0,
+        "val": 1.22
+      },
+      {
+        "effect": "Spell Absorption",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Creation Club"
+  },
+  {
+    "name": "Luminous Russula",
+    "effects": [
+      {
+        "effect": "Fear",
+        "mag": 2.0,
+        "dur": 1.0,
+        "val": 2.14
+      },
+      {
+        "effect": "Lingering Damage Health",
+        "mag": 2.0,
+        "dur": 1.0,
+        "val": 2.14
+      },
+      {
+        "effect": "Lingering Damage Stamina",
+        "mag": 2.0,
+        "dur": 1.0,
+        "val": 2.14
+      },
+      {
+        "effect": "Waterbreathing",
+        "mag": 1.0,
+        "dur": 1.6,
+        "val": 1.67
+      }
+    ],
+    "source": "Creation Club"
+  },
+  {
+    "name": "Luna Moth Wing",
+    "effects": [
+      {
+        "effect": "Damage Magicka",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Light Armor",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Invisibility",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Regenerate Health",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Marshmerrow",
+    "effects": [
+      {
+        "effect": "Damage Stamina",
+        "mag": 1.33,
+        "dur": 1.0,
+        "val": 1.36
+      },
+      {
+        "effect": "Fortify Carry Weight",
+        "mag": 1.25,
+        "dur": 1.0,
+        "val": 1.27
+      },
+      {
+        "effect": "Restore Health",
+        "mag": 1.2,
+        "dur": 1.0,
+        "val": 1.22
+      },
+      {
+        "effect": "Weakness to Magic",
+        "mag": 1.5,
+        "dur": 1.0,
+        "val": 1.56
+      }
+    ],
+    "source": "Creation Club"
+  },
+  {
+    "name": "Minotaur Horn",
+    "effects": [
+      {
+        "effect": "Damage Magicka Regen",
+        "mag": 1.0,
+        "dur": 2.0,
+        "val": 2.14
+      },
+      {
+        "effect": "Regenerate Health",
+        "mag": 1.2,
+        "dur": 1.0,
+        "val": 1.22
+      },
+      {
+        "effect": "Regenerate Magicka",
+        "mag": 1.2,
+        "dur": 1.0,
+        "val": 1.22
+      },
+      {
+        "effect": "Resist Poison",
+        "mag": 1.25,
+        "dur": 1.0,
+        "val": 1.27
+      }
+    ],
+    "source": "Creation Club"
+  },
+  {
+    "name": "Moon Sugar",
+    "effects": [
+      {
+        "effect": "Regenerate Magicka",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Resist Frost",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Restore Magicka",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Weakness to Fire",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Mora Tapinella",
+    "effects": [
+      {
+        "effect": "Fortify Illusion",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Lingering Damage Health",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Regenerate Stamina",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Restore Magicka",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Mort Flesh",
+    "effects": [
+      {
+        "effect": "Damage Health",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Damage Magicka",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Damage Magicka Regen",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Frenzy",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Creation Club"
+  },
+  {
+    "name": "Mudcrab Chitin",
+    "effects": [
+      {
+        "effect": "Cure Disease",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Resist Fire",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Resist Poison",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Restore Stamina",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Namira's Rot",
+    "effects": [
+      {
+        "effect": "Damage Magicka",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fear",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Lockpicking",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Regenerate Health",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Netch Jelly",
+    "effects": [
+      {
+        "effect": "Fear",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Carry Weight",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Paralysis",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Restore Stamina",
+        "mag": 2.0,
+        "dur": 1.0,
+        "val": null
+      }
+    ],
+    "source": "Dragonborn"
+  },
+  {
+    "name": "Nightshade",
+    "effects": [
+      {
+        "effect": "Damage Health",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Damage Magicka Regen",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Destruction",
+        "mag": 0.8,
+        "dur": 1.0,
+        "val": null
+      },
+      {
+        "effect": "Lingering Damage Stamina",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Nirnroot",
+    "effects": [
+      {
+        "effect": "Damage Health",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 12.6
+      },
+      {
+        "effect": "Damage Stamina",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Invisibility",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Resist Magic",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Nordic Barnacle",
+    "effects": [
+      {
+        "effect": "Damage Magicka",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Pickpocket",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Regenerate Health",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Waterbreathing",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Ogre's Teeth",
+    "effects": [
+      {
+        "effect": "Lingering Damage Magicka",
+        "mag": 2.0,
+        "dur": 1.0,
+        "val": 2.14
+      },
+      {
+        "effect": "Regenerate Health",
+        "mag": 1.2,
+        "dur": 1.0,
+        "val": 1.22
+      },
+      {
+        "effect": "Resist Poison",
+        "mag": 1.25,
+        "dur": 1.0,
+        "val": 1.27
+      },
+      {
+        "effect": "Weakness to Shock",
+        "mag": 1.33,
+        "dur": 1.0,
+        "val": 1.36
+      }
+    ],
+    "source": "Creation Club"
+  },
+  {
+    "name": "Orange Dartwing",
+    "effects": [
+      {
+        "effect": "Fortify Pickpocket",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Lingering Damage Health",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Ravage Magicka",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Restore Stamina",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Pearl",
+    "effects": [
+      {
+        "effect": "Fortify Block",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Resist Shock",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Restore Magicka",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Restore Stamina",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Pine Thrush Egg",
+    "effects": [
+      {
+        "effect": "Fortify Lockpicking",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Resist Shock",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Restore Stamina",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Weakness to Poison",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Poison Bloom",
+    "effects": [
+      {
+        "effect": "Damage Health",
+        "mag": 1.5,
+        "dur": 1.0,
+        "val": 1.6
+      },
+      {
+        "effect": "Fear",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Carry Weight",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Slow",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Dawnguard"
+  },
+  {
+    "name": "Powdered Mammoth Tusk",
+    "effects": [
+      {
+        "effect": "Fear",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Sneak",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Restore Stamina",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Weakness to Fire",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Purple Butterfly Wing",
+    "effects": [
+      {
+        "effect": "Paralysis",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Regenerate Health",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Regenerate Magicka",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Regenerate Stamina",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Creation Club"
+  },
+  {
+    "name": "Purple Mountain Flower",
+    "effects": [
+      {
+        "effect": "Fortify Sneak",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Lingering Damage Magicka",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Resist Frost",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Restore Stamina",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Red Kelp Gas Bladder",
+    "effects": [
+      {
+        "effect": "Cure Disease",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 0.36
+      },
+      {
+        "effect": "Fortify Magicka",
+        "mag": 1.25,
+        "dur": 1.0,
+        "val": 1.27
+      },
+      {
+        "effect": "Regenerate Stamina",
+        "mag": 1.2,
+        "dur": 1.0,
+        "val": 1.22
+      },
+      {
+        "effect": "Waterbreathing",
+        "mag": 1.0,
+        "dur": 1.6,
+        "val": 1.67
+      }
+    ],
+    "source": "Creation Club"
+  },
+  {
+    "name": "Red Mountain Flower",
+    "effects": [
+      {
+        "effect": "Damage Health",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Magicka",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Ravage Magicka",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Restore Magicka",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Redwort Flower",
+    "effects": [
+      {
+        "effect": "Cure Poison",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Damage Health",
+        "mag": 1.5,
+        "dur": 1.0,
+        "val": 1.56
+      },
+      {
+        "effect": "Invisibility",
+        "mag": 1.0,
+        "dur": 1.5,
+        "val": 1.56
+      },
+      {
+        "effect": "Resist Frost",
+        "mag": 1.33,
+        "dur": 1.0,
+        "val": 1.36
+      }
+    ],
+    "source": "Creation Club"
+  },
+  {
+    "name": "River Betty",
+    "effects": [
+      {
+        "effect": "Damage Health",
+        "mag": 2.5,
+        "dur": 1.0,
+        "val": 34.5
+      },
+      {
+        "effect": "Fortify Alteration",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Carry Weight",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Slow",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Rock Warbler Egg",
+    "effects": [
+      {
+        "effect": "Damage Stamina",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify One-handed",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Restore Health",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Weakness to Magic",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Roobrush",
+    "effects": [
+      {
+        "effect": "Cure Poison",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Sneak",
+        "mag": 1.25,
+        "dur": 1.0,
+        "val": 1.27
+      },
+      {
+        "effect": "Lingering Damage Health",
+        "mag": 2.0,
+        "dur": 1.0,
+        "val": 2.14
+      },
+      {
+        "effect": "Weakness to Magic",
+        "mag": 1.5,
+        "dur": 1.0,
+        "val": 1.56
+      }
+    ],
+    "source": "Creation Club"
+  },
+  {
+    "name": "Rot Scale",
+    "effects": [
+      {
+        "effect": "Fear",
+        "mag": 1.0,
+        "dur": 0.16,
+        "val": 0.14
+      },
+      {
+        "effect": "Lingering Damage Health",
+        "mag": 1.0,
+        "dur": 3.0,
+        "val": 3.34
+      },
+      {
+        "effect": "Paralysis",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Slow",
+        "mag": 1.0,
+        "dur": 3.0,
+        "val": 0.26
+      }
+    ],
+    "source": "Creation Club"
+  },
+  {
+    "name": "Sabre Cat Tooth",
+    "effects": [
+      {
+        "effect": "Fortify Heavy Armor",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Smithing",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Restore Stamina",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Weakness to Poison",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Salmon Roe",
+    "effects": [
+      {
+        "effect": "Fortify Magicka",
+        "mag": 12.5,
+        "dur": 0.08,
+        "val": 1.05
+      },
+      {
+        "effect": "Regenerate Magicka",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Restore Stamina",
+        "mag": 0.4,
+        "dur": 1.0,
+        "val": 0.36
+      },
+      {
+        "effect": "Waterbreathing",
+        "mag": 1.0,
+        "dur": 12.0,
+        "val": 15.4
+      }
+    ],
+    "source": "Hearthfire"
+  },
+  {
+    "name": "Salt Pile",
+    "effects": [
+      {
+        "effect": "Fortify Restoration",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Regenerate Magicka",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Slow",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Weakness to Magic",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Saltrice",
+    "effects": [
+      {
+        "effect": "Damage Stamina Regen",
+        "mag": 1.0,
+        "dur": 2.0,
+        "val": 2.14
+      },
+      {
+        "effect": "Fortify Magicka",
+        "mag": 1.25,
+        "dur": 1.0,
+        "val": 1.27
+      },
+      {
+        "effect": "Restore Health",
+        "mag": 1.2,
+        "dur": 1.0,
+        "val": 1.22
+      },
+      {
+        "effect": "Restore Stamina",
+        "mag": 1.2,
+        "dur": 1.0,
+        "val": 1.22
+      }
+    ],
+    "source": "Creation Club"
+  },
+  {
+    "name": "Scalon Fin",
+    "effects": [
+      {
+        "effect": "Damage Health",
+        "mag": 1.5,
+        "dur": 1.0,
+        "val": 1.56
+      },
+      {
+        "effect": "Damage Magicka Regen",
+        "mag": 1.0,
+        "dur": 2.0,
+        "val": 2.14
+      },
+      {
+        "effect": "Lingering Damage Magicka",
+        "mag": 2.0,
+        "dur": 1.0,
+        "val": 2.14
+      },
+      {
+        "effect": "Waterbreathing",
+        "mag": 1.0,
+        "dur": 1.6,
+        "val": 1.67
+      }
+    ],
+    "source": "Creation Club"
+  },
+  {
+    "name": "Scaly Pholiota",
+    "effects": [
+      {
+        "effect": "Fortify Carry Weight",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Illusion",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Regenerate Stamina",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Weakness to Magic",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Scathecraw",
+    "effects": [
+      {
+        "effect": "Lingering Damage Health",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Ravage Health",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Ravage Magicka",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Ravage Stamina",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Dragonborn"
+  },
+  {
+    "name": "Screaming Maw",
+    "effects": [
+      {
+        "effect": "Fortify Alteration",
+        "mag": 1.25,
+        "dur": 1.0,
+        "val": 1.27
+      },
+      {
+        "effect": "Invisibility",
+        "mag": 1.0,
+        "dur": 4.0,
+        "val": 4.6
+      },
+      {
+        "effect": "Regenerate Health",
+        "mag": 4.0,
+        "dur": 0.03,
+        "val": 0.11
+      },
+      {
+        "effect": "Regenerate Magicka",
+        "mag": 4.0,
+        "dur": 0.2,
+        "val": 0.78
+      }
+    ],
+    "source": "Creation Club"
+  },
+  {
+    "name": "Scrib Jelly",
+    "effects": [
+      {
+        "effect": "Cure Disease",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 0.36
+      },
+      {
+        "effect": "Cure Poison",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Regenerate Magicka",
+        "mag": 1.2,
+        "dur": 1.0,
+        "val": 1.22
+      },
+      {
+        "effect": "Regenerate Stamina",
+        "mag": 1.2,
+        "dur": 1.0,
+        "val": 1.22
+      }
+    ],
+    "source": "Creation Club"
+  },
+  {
+    "name": "Scrib Jerky",
+    "effects": [
+      {
+        "effect": "Fortify Stamina",
+        "mag": 1.25,
+        "dur": 1.0,
+        "val": 1.27
+      },
+      {
+        "effect": "Paralysis",
+        "mag": 1.0,
+        "dur": 1.5,
+        "val": 1.56
+      },
+      {
+        "effect": "Restore Stamina",
+        "mag": 1.2,
+        "dur": 1.0,
+        "val": 1.22
+      },
+      {
+        "effect": "Waterbreathing",
+        "mag": 1.0,
+        "dur": 1.6,
+        "val": 1.67
+      }
+    ],
+    "source": "Creation Club"
+  },
+  {
+    "name": "Silverside Perch",
+    "effects": [
+      {
+        "effect": "Damage Stamina Regen",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Ravage Health",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Resist Frost",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Restore Stamina",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Skeever Tail",
+    "effects": [
+      {
+        "effect": "Damage Health",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Damage Stamina Regen",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Light Armor",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Ravage Health",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Slaughterfish Egg",
+    "effects": [
+      {
+        "effect": "Fortify Pickpocket",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Stamina",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Lingering Damage Health",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Resist Poison",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Slaughterfish Scales",
+    "effects": [
+      {
+        "effect": "Fortify Block",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Heavy Armor",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Lingering Damage Health",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Resist Frost",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Sload Soap",
+    "effects": [
+      {
+        "effect": "Fear",
+        "mag": 2.0,
+        "dur": 1.0,
+        "val": 2.14
+      },
+      {
+        "effect": "Fortify Alteration",
+        "mag": 1.25,
+        "dur": 1.0,
+        "val": 1.27
+      },
+      {
+        "effect": "Fortify Conjuration",
+        "mag": 1.2,
+        "dur": 1.0,
+        "val": 1.22
+      },
+      {
+        "effect": "Resist Fire",
+        "mag": 1.33,
+        "dur": 1.0,
+        "val": 1.36
+      }
+    ],
+    "source": "Creation Club"
+  },
+  {
+    "name": "Small Antlers",
+    "effects": [
+      {
+        "effect": "Damage Health",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Restoration",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Lingering Damage Stamina",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Weakness to Poison",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Small Pearl",
+    "effects": [
+      {
+        "effect": "Fortify One-handed",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Restoration",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Resist Frost",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Restore Stamina",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Snowberries",
+    "effects": [
+      {
+        "effect": "Fortify Enchanting",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Resist Fire",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Resist Frost",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Resist Shock",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Spawn Ash",
+    "effects": [
+      {
+        "effect": "Fortify Enchanting",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Ravage Magicka",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Ravage Stamina",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Resist Fire",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Dragonborn"
+  },
+  {
+    "name": "Spider Egg",
+    "effects": [
+      {
+        "effect": "Damage Magicka Regen",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Damage Stamina",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Lockpicking",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Marksman",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Spriggan Sap",
+    "effects": [
+      {
+        "effect": "Damage Magicka Regen",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Alteration",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Enchanting",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Smithing",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Steel-Blue Entoloma",
+    "effects": [
+      {
+        "effect": "Fortify Carry Weight",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Destruction",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Resist Frost",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Restore Magicka",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Creation Club"
+  },
+  {
+    "name": "Stoneflower Petals",
+    "effects": [
+      {
+        "effect": "Fortify Enchanting",
+        "mag": 2.0,
+        "dur": 1.0,
+        "val": 2.14
+      },
+      {
+        "effect": "Fortify Magicka",
+        "mag": 1.25,
+        "dur": 1.0,
+        "val": 1.27
+      },
+      {
+        "effect": "Fortify One-handed",
+        "mag": 1.25,
+        "dur": 1.0,
+        "val": 1.27
+      },
+      {
+        "effect": "Weakness to Shock",
+        "mag": 1.33,
+        "dur": 1.0,
+        "val": 1.36
+      }
+    ],
+    "source": "Creation Club"
+  },
+  {
+    "name": "Swamp Fungal Pod",
+    "effects": [
+      {
+        "effect": "Lingering Damage Magicka",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Paralysis",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Resist Shock",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Restore Health",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Taproot",
+    "effects": [
+      {
+        "effect": "Fortify Illusion",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Regenerate Magicka",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Restore Magicka",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Weakness to Magic",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Thistle Branch",
+    "effects": [
+      {
+        "effect": "Fortify Heavy Armor",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Ravage Stamina",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Resist Frost",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Resist Poison",
+        "mag": 0.75,
+        "dur": 0.0,
+        "val": 0.1
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Thorn Hook",
+    "effects": [
+      {
+        "effect": "Lingering Damage Health",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Paralysis",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Regenerate Health",
+        "mag": 0.6,
+        "dur": 0.6,
+        "val": 0.32
+      },
+      {
+        "effect": "Regenerate Magicka",
+        "mag": 0.6,
+        "dur": 0.6,
+        "val": 0.32
+      }
+    ],
+    "source": "Creation Club"
+  },
+  {
+    "name": "Torchbug Thorax",
+    "effects": [
+      {
+        "effect": "Fortify Stamina",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Lingering Damage Magicka",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Restore Stamina",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Weakness to Magic",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Trama Root",
+    "effects": [
+      {
+        "effect": "Damage Magicka",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Carry Weight",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Slow",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Weakness to Shock",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Dragonborn"
+  },
+  {
+    "name": "Troll Fat",
+    "effects": [
+      {
+        "effect": "Damage Health",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Two-handed",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Frenzy",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Resist Poison",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Tundra Cotton",
+    "effects": [
+      {
+        "effect": "Fortify Barter",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Block",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Magicka",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Resist Magic",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Vampire Dust",
+    "effects": [
+      {
+        "effect": "Cure Disease",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Invisibility",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Regenerate Health",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Restore Magicka",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Void Essence",
+    "effects": [
+      {
+        "effect": "Fortify Health",
+        "mag": 1.25,
+        "dur": 5.0,
+        "val": 7.5
+      },
+      {
+        "effect": "Fortify Stamina",
+        "mag": 1.25,
+        "dur": 5.0,
+        "val": 7.5
+      },
+      {
+        "effect": "Regenerate Health",
+        "mag": 1.2,
+        "dur": 1.0,
+        "val": 1.22
+      },
+      {
+        "effect": "Restore Health",
+        "mag": 1.2,
+        "dur": 1.0,
+        "val": 1.22
+      }
+    ],
+    "source": "Creation Club"
+  },
+  {
+    "name": "Void Salts",
+    "effects": [
+      {
+        "effect": "Damage Health",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Magicka",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Resist Magic",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Weakness to Shock",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Watcher's Eye",
+    "effects": [
+      {
+        "effect": "Fortify Illusion",
+        "mag": 5.0,
+        "dur": 1.0,
+        "val": 5.87
+      },
+      {
+        "effect": "Fortify Magicka",
+        "mag": 1.25,
+        "dur": 1.0,
+        "val": 1.27
+      },
+      {
+        "effect": "Night Eye",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Spell Absorption",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Creation Club"
+  },
+  {
+    "name": "Wheat",
+    "effects": [
+      {
+        "effect": "Damage Stamina Regen",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Health",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Lingering Damage Magicka",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Restore Health",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "White Cap",
+    "effects": [
+      {
+        "effect": "Fortify Heavy Armor",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Ravage Magicka",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Restore Magicka",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Weakness to Frost",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Wild Grass Pod",
+    "effects": [
+      {
+        "effect": "Fortify Alteration",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Ravage Magicka",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Resist Poison",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Restore Magicka",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Creation Club"
+  },
+  {
+    "name": "Wisp Stalk Caps",
+    "effects": [
+      {
+        "effect": "Damage Health",
+        "mag": 1.5,
+        "dur": 1.0,
+        "val": 1.56
+      },
+      {
+        "effect": "Frenzy",
+        "mag": 1.0,
+        "dur": 2.0,
+        "val": 2.14
+      },
+      {
+        "effect": "Regenerate Stamina",
+        "mag": 1.2,
+        "dur": 1.0,
+        "val": 1.22
+      },
+      {
+        "effect": "Weakness to Poison",
+        "mag": 1.5,
+        "dur": 1.0,
+        "val": 1.56
+      }
+    ],
+    "source": "Creation Club"
+  },
+  {
+    "name": "Wisp Wrappings",
+    "effects": [
+      {
+        "effect": "Fortify Carry Weight",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Destruction",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Resist Magic",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Restore Stamina",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Skyrim"
+  },
+  {
+    "name": "Withering Moon",
+    "effects": [
+      {
+        "effect": "Cure Disease",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 0.36
+      },
+      {
+        "effect": "Fortify Light Armor",
+        "mag": 1.5,
+        "dur": 1.0,
+        "val": 1.56
+      },
+      {
+        "effect": "Restore Magicka",
+        "mag": 1.2,
+        "dur": 1.0,
+        "val": 1.22
+      },
+      {
+        "effect": "Spell Absorption",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Creation Club"
+  },
+  {
+    "name": "Worm's Head Cap",
+    "effects": [
+      {
+        "effect": "Fortify Carry Weight",
+        "mag": 1.25,
+        "dur": 1.0,
+        "val": 1.27
+      },
+      {
+        "effect": "Fortify Lockpicking",
+        "mag": 1.5,
+        "dur": 1.0,
+        "val": 1.56
+      },
+      {
+        "effect": "Night Eye",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Slow",
+        "mag": 1.0,
+        "dur": 2.0,
+        "val": 2.14
+      }
+    ],
+    "source": "Creation Club"
+  },
+  {
+    "name": "Yellow Mountain Flower",
+    "effects": [
+      {
+        "effect": "Damage Stamina Regen",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Health",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      },
+      {
+        "effect": "Fortify Restoration",
+        "mag": 1.25,
+        "dur": 1.0,
+        "val": 1.27
+      },
+      {
+        "effect": "Resist Poison",
+        "mag": 1.0,
+        "dur": 1.0,
+        "val": 1.0
+      }
+    ],
+    "source": "Dawnguard"
+  }
+]

@@ -1,0 +1,173 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Calculateur d'alchimie</title>
+<style>
+  body { font-family: system-ui, sans-serif; margin: 0; background: #f4f1ea; color: #222; }
+  header { background: #3b2f2f; color: #f4f1ea; padding: 12px 20px; }
+  header h1 { margin: 0; font-size: 1.3rem; }
+  main { display: grid; grid-template-columns: 380px 1fr; gap: 20px; padding: 20px; }
+  @media (max-width: 800px) { main { grid-template-columns: 1fr; } }
+  section { background: #fff; border-radius: 8px; padding: 16px; box-shadow: 0 1px 3px #0002; }
+  h2 { margin: 0 0 12px; font-size: 1.05rem; }
+  label { display: block; margin: 6px 0; }
+  input[type=number] { width: 70px; }
+  .toolbar { display: flex; gap: 8px; margin-bottom: 8px; }
+  .toolbar input { flex: 1; padding: 6px; }
+  #ingredients { max-height: 55vh; overflow-y: auto; border-top: 1px solid #ddd; }
+  .ing { display: flex; align-items: center; gap: 6px; padding: 4px 0; border-bottom: 1px solid #eee; }
+  .ing .name { flex: 1; }
+  .ing .name small { color: #888; }
+  .ing.owned .name { font-weight: 600; }
+  .ing button { width: 28px; height: 28px; }
+  .ing .qty { width: 48px; text-align: center; }
+  #compute { width: 100%; padding: 10px; margin-top: 12px; font-size: 1rem;
+             background: #6b4e2e; color: #fff; border: 0; border-radius: 6px; cursor: pointer; }
+  #compute:disabled { opacity: .6; cursor: wait; }
+  table { border-collapse: collapse; width: 100%; }
+  th, td { text-align: left; padding: 6px 8px; border-bottom: 1px solid #eee; vertical-align: top; }
+  td.num { text-align: right; white-space: nowrap; }
+  .effects { color: #666; font-size: .85rem; }
+  .poison { color: #8a1c1c; }
+  .total { font-size: 1.2rem; font-weight: 600; margin: 12px 0; }
+  .error { color: #8a1c1c; }
+</style>
+</head>
+<body>
+<header><h1>Calculateur d'alchimie — Skyrim</h1></header>
+<main>
+  <div>
+    <section>
+      <h2>Alchimiste</h2>
+      <label>Niveau d'Alchimie <input type="number" id="skill" min="15" max="100" value="15"></label>
+      <label>Fortify Alchemy (%) <input type="number" id="fortify_alchemy" min="0" value="0"></label>
+      <label>Alchimiste (rang 0–5) <input type="number" id="alchemist_rank" min="0" max="5" value="0"></label>
+      <label><input type="checkbox" id="physician"> Médecin</label>
+      <label><input type="checkbox" id="benefactor"> Bienfaiteur</label>
+      <label><input type="checkbox" id="poisoner"> Empoisonneur</label>
+    </section>
+    <br>
+    <section>
+      <h2>Inventaire</h2>
+      <div class="toolbar">
+        <input type="search" id="filter" placeholder="Rechercher un ingrédient…">
+        <button id="reset">Vider</button>
+      </div>
+      <label><input type="checkbox" id="owned-only"> Seulement ceux que je possède</label>
+      <div id="ingredients"></div>
+      <button id="compute">Calculer les potions optimales</button>
+    </section>
+  </div>
+  <section>
+    <h2>Potions à fabriquer</h2>
+    <div id="result">Choisis tes ingrédients puis clique sur « Calculer ».</div>
+  </section>
+</main>
+
+<script src="https://cdn.jsdelivr.net/npm/highs@1.15.3/build/highs.js"></script>
+<script src="alchemy.js"></script>
+<script>
+const inventory = {};
+let ingredients = [];
+let data = null;
+
+function renderIngredients() {
+  const filter = document.getElementById("filter").value.toLowerCase();
+  const ownedOnly = document.getElementById("owned-only").checked;
+  const list = document.getElementById("ingredients");
+  list.innerHTML = "";
+  for (const ing of ingredients) {
+    const qty = inventory[ing.name] || 0;
+    if (ownedOnly && qty === 0) continue;
+    if (filter && !ing.name.toLowerCase().includes(filter)) continue;
+    const row = document.createElement("div");
+    row.className = "ing" + (qty > 0 ? " owned" : "");
+    row.title = ing.effects.join(", ");
+    row.innerHTML = `
+      <span class="name">${ing.name} <small>${ing.source}</small></span>
+      <button data-d="-1">−</button>
+      <input type="number" class="qty" min="0" value="${qty}">
+      <button data-d="1">+</button>`;
+    row.querySelectorAll("button").forEach(b => b.onclick = () => {
+      inventory[ing.name] = Math.max(0, (inventory[ing.name] || 0) + Number(b.dataset.d));
+      renderIngredients();
+    });
+    // Saisie directe : on met à jour sans tout redessiner pour garder le focus.
+    const input = row.querySelector(".qty");
+    input.oninput = () => {
+      inventory[ing.name] = Math.max(0, Math.floor(Number(input.value)) || 0);
+      row.classList.toggle("owned", inventory[ing.name] > 0);
+    };
+    input.onchange = () => { input.value = inventory[ing.name]; };
+    list.appendChild(row);
+  }
+}
+
+function readCharacter() {
+  const num = id => Number(document.getElementById(id).value) || 0;
+  const check = id => document.getElementById(id).checked;
+  return {
+    skill: num("skill"), fortify_alchemy: num("fortify_alchemy"),
+    alchemist_rank: num("alchemist_rank"),
+    physician: check("physician"), benefactor: check("benefactor"), poisoner: check("poisoner"),
+  };
+}
+
+function renderResult(data) {
+  const result = document.getElementById("result");
+  if (data.error) { result.innerHTML = `<p class="error">Erreur : ${data.error}</p>`; return; }
+  if (data.plan.length === 0) { result.textContent = "Aucune potion faisable avec ces ingrédients."; return; }
+  let html = `<p class="total">Total : ${data.total} or</p>
+    <table><tr><th>Nb</th><th>Potion</th><th>Valeur</th></tr>`;
+  for (const p of data.plan) {
+    const effects = p.details.map(d => `${d.effect} (${d.gold} or)`).join(", ");
+    html += `<tr>
+      <td class="num">${p.count} ×</td>
+      <td><span class="${p.type === "Poison" ? "poison" : ""}">${p.type}</span> :
+          ${p.ingredients.join(" + ")}<div class="effects">${effects}</div></td>
+      <td class="num">${p.value} or</td></tr>`;
+  }
+  html += "</table>";
+  const remaining = Object.entries(data.remaining);
+  if (remaining.length) {
+    html += "<h3>Ingrédients restants</h3><p>" +
+      remaining.map(([n, q]) => `${q} × ${n}`).join(", ") + "</p>";
+  }
+  result.innerHTML = html;
+}
+
+document.getElementById("compute").onclick = async () => {
+  const button = document.getElementById("compute");
+  button.disabled = true;
+  document.getElementById("result").textContent = "Calcul en cours…";
+  // Laisse le navigateur afficher « Calcul en cours… » avant de lancer le calcul.
+  await new Promise(resolve => setTimeout(resolve, 0));
+  try {
+    const highs = await loadHighs();
+    renderResult(computePlan(inventory, readCharacter(), data, highs));
+  } catch (e) {
+    highsPromise = null;  // en cas d'erreur, on repartira d'un solveur neuf
+    renderResult({ error: e.message });
+  }
+  button.disabled = false;
+};
+
+document.getElementById("filter").oninput = renderIngredients;
+document.getElementById("owned-only").onchange = renderIngredients;
+document.getElementById("reset").onclick = () => {
+  for (const k in inventory) delete inventory[k];
+  renderIngredients();
+};
+
+loadData().then(loaded => {
+  data = loaded;
+  ingredients = Object.values(data.ingredientsDb)
+    .map(i => ({ name: i.name, source: i.source, effects: i.effects.map(e => e.effect) }))
+    .sort((a, b) => a.name.localeCompare(b.name));
+  renderIngredients();
+});
+</script>
+</body>
+</html>
